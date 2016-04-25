@@ -1,0 +1,10 @@
+Using Google Drive, we are making a movie store app similar to Assignments 6, 7, and 12. But instead of Assignmetns 6 and 7 being BST, 
+we have built them as Hash Tables. It will have functions and nested functions. they will be using a .txt file of which is supplied by us. 
+It will start off with a Main Menu  function, the user then inputs their chioce as a corrosponding number in the menu, each option has a 
+particular algorythm, some have sub menus that are then called up with more options, there operate the same as the Main Menu.  For 
+example, the main menu will give options to insert a movie ,delete a movie , rent a movie, or print the inentory, if the find option is 
+selectes in the main menu, there will be a sub-menu called to give a more defined criteria to search for the inventory. 
+
+KEYDEL IS NO LONGER IN TH GROUP< HE BELONGS TO ANOTHER RECITATION SECTION.  
+
+THIS PROJECT IS MADE BY BJORLOW AND MOONEY.
